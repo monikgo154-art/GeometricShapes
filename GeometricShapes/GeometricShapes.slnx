@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Frontend/">
+    <Project Path="Frontend/Geometric/Geometric.csproj" />
+  </Folder>
+  <Folder Name="/Solution Items/" />
+  <Project Path="Circle/Circle.csproj" />
+  <Project Path="Geometric/Geometric.csproj" />
+  <Project Path="Kite/Kite.csproj" />
+  <Project Path="Parallelogram/Parallelogram.csproj" />
+  <Project Path="Rectangle/Rectangle.csproj" />
+  <Project Path="Rhombus/Rhombus.csproj" />
+  <Project Path="Square/Square.csproj" />
+  <Project Path="Trapaze/Trapaze.csproj" />
+  <Project Path="Triangle/Triangle.csproj" />
+</Solution>
