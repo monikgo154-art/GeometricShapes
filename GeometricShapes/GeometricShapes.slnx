@@ -1,15 +1,16 @@
 <Solution>
-  <Folder Name="/Frontend/">
-    <Project Path="Frontend/Geometric/Geometric.csproj" />
+  <Folder Name="/Backend/">
+    <File Path="circle.cs" />
+    <File Path="geometric.cs" />
+    <File Path="kite.cs" />
+    <File Path="parallelogram.cs" />
+    <File Path="rectangle.cs" />
+    <File Path="rhombus.cs" />
+    <File Path="square.cs" />
+    <File Path="trapeze.cs" />
+    <File Path="triangle.cs" />
   </Folder>
-  <Folder Name="/Solution Items/" />
-  <Project Path="Circle/Circle.csproj" />
-  <Project Path="Geometric/Geometric.csproj" />
-  <Project Path="Kite/Kite.csproj" />
-  <Project Path="Parallelogram/Parallelogram.csproj" />
-  <Project Path="Rectangle/Rectangle.csproj" />
-  <Project Path="Rhombus/Rhombus.csproj" />
-  <Project Path="Square/Square.csproj" />
-  <Project Path="Trapaze/Trapaze.csproj" />
-  <Project Path="Triangle/Triangle.csproj" />
+  <Folder Name="/Frontend/">
+    <File Path="program.cs" />
+  </Folder>
 </Solution>
